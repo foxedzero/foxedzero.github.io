@@ -1,16 +1,29 @@
 ﻿body {
- background-image: url("gradient.png");
- background-color: #cccccc;
+  background-image: linear-gradient(to right, #FB773C, #EB3678)
 }
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 50em;
 
   position:absolute;
   top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  margin:auto;
+}
+
+.discordButton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+
+  position:absolute;
+  top: 200px;
   left:0;
   right:0;
   bottom:0;
