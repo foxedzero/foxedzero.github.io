@@ -1,18 +1,18 @@
 Privacy Policy
- Mobile application Grandpa: Game Horror
- Last Revised: June 13, 2024
+ Mobile application Escape from Grandfather
+ Last Revised: August 14, 2024
  
 Who we are / What we do
-Eduard Regovskoy is the right-holder of exclusive rights to mobile applications Grandpa: Game Horror and other all intellectual property that is hereinafter referred to as The Product.
+Eduard Regovskoy is the right-holder of exclusive rights to mobile applications Escape from Grandfather and other all intellectual property that is hereinafter referred to as The Product.
 Eduard Regovskoy will be called “We”, and in the case of belonging – “us”, “our”.
-The Product provides a set of intellectual property contained in the information system (including a computer program, database, graphic design of the interface, etc.) access that is provided from various user devices using special software - mobile applications Grandpa: Game Horror.
-Grandpa: Game Horror may be used for entertainment purposes only.
+The Product provides a set of intellectual property contained in the information system (including a computer program, database, graphic design of the interface, etc.) access that is provided from various user devices using special software - mobile applications Escape from Grandfather.
+Escape from Grandfather may be used for entertainment purposes only.
 This Privacy Policy applies when you use our Products. By this Privacy Policy, we care about your PII so allow you to know what Data we collect and how we process it.
-If you are going to take registration actions, download, upload, copy, or by any other approved manner use mobile apps Grandpa: Game Horror, including if you begin to participate in the use process with your Account, then you have to read this Privacy policy and to agree with that.
+If you are going to take registration actions, download, upload, copy, or by any other approved manner use mobile apps Escape from Grandfather, including if you begin to participate in the use process with your Account, then you have to read this Privacy policy and to agree with that.
 YOU ACKNOWLEDGE THAT YOU HAVE FULLY READ, UNDERSTAND, ACCEPT AND AGREE WITH OUR PRIVACY POLICY AND OTHER LEGAL DOCUMENTS without the exceptions and qualifications, so you are responsible for their violation.
 THE CONDITIONS OF THIS PRIVACY POLICY AND OTHER LEGAL INSTRUMENTS ALLOWED IN THE TERMS AND CONDITIONS ARE SIGNIFICANT FOR YOUR EXECUTION.
 Click-wrap for agreement with this Privacy Policy and to use the Product.
-By clicking the button with the text «I Agree» or another the same in the Product - you agree to be bound by this Privacy Policy that is located at https://sites.google.com/view/foxed-studios/privacy-policy-grandpa and at the Product.
+By clicking the button with the text «I Agree» or another the same in the Product - you agree to be bound by this Privacy Policy that is located at https://foxedzero.github.io/privacy/efg-privacy.txt and at the Product.
 Browse-wrap for agreement with this Privacy Policy and to use the Product.
 When you use the Product after downloading and installing the Product to your Device so you agree with this Privacy Policy and permit us to use your Data (non-personal identification information).
  
@@ -20,7 +20,7 @@ Glossary
 The text of our Privacy Policy uses terms and concepts with the following meaning:
 Personally Identifiable Information (referred to in this document as “PII”) is that alone or in combination with other information or certain contexts can be used to identify, distinguish or trace you and your Device(s).
 Data is all information that we or Third parties have got from you, including technical information about your Device(s) or accounts and non-personal identification information.
-Product is mobile applications, Grandpa: Game Horror for iOS and Android, that was published or made available by Eduard Regovskoy.
+Product is mobile applications, Escape from Grandfather for iOS and Android, that was published or made available by Eduard Regovskoy.
 Third party (or Third-Party Providers) is the third party with whom we entered into an agreement placing an advertisement in the Product and / or collecting, processing and storing your technical, and other data.
 Device is a hardware operated by a person and may refer to a smartphone, tablet, PC. Content is any information that you may get in our Product from us or Third parties.
 Profile and / or Account means the section of the Product that contains details, data, PII and (or) other information about a User. By using an Account, you may access to using the Product.
@@ -30,8 +30,8 @@ All the above terms can be indicated in the plural. When using the term, it is n
  
 1. Introduction
 This Privacy Policy governs all websites, apps, and other services that link to, or contain references to, this document and are published or made available by Eduard Regovskoy, its parent, subsidiaries, and affiliates. Please read this Privacy Policy carefully. It summarizes the various ways we acquire and treat your Data when you access, visit and/or use the Product. It also governs your Data that we may acquire offline. Please notice that our Privacy Policy does not cover information collected by web-sites, applications, destinations, or services linked to the Product that we do not own or control.
-You can access this Privacy Policy any time on the Product's description screen, or as otherwise indicated depending on the Product you are using, or any public website's page: https://sites.google.com/view/foxed-studios/privacy-policy-grandpa
-By clicking the button with the text «I Agree» or using the Product: you agree to be bound by this Privacy Policy at https://sites.google.com/view/foxed-studios/privacy-policy-grandpa. By downloading the Product, registering for any aspect of the Product, or otherwise accessing, visiting, or using the Product, you consent to this Privacy Policy too if there is no other notification or agreement.
+You can access this Privacy Policy any time on the Product's description screen, or as otherwise indicated depending on the Product you are using, or any public website's page: https://foxedzero.github.io/privacy/efg-privacy.txt
+By clicking the button with the text «I Agree» or using the Product: you agree to be bound by this Privacy Policy at https://foxedzero.github.io/privacy/efg-privacy.txt. By downloading the Product, registering for any aspect of the Product, or otherwise accessing, visiting, or using the Product, you consent to this Privacy Policy too if there is no other notification or agreement.
 If you don’t agree with the terms and conditions of this Privacy Policy, you should not access, visit and/or use the Product. We advise that you print or retain a digital copy of this Privacy Policy for future reference.
 This Privacy Policy may be modified from time to time, so check back often. So that you are aware changes have been made, we will adjust the «Last Revised» date at the beginning of this document. If we make a significant change in the way we use or share your PII, we will also post on the Product a prominent notice that a change was made. Continued access to the Product by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 This Privacy Policy in the part of Personally Identifiable Information must be used only in a case, when you give to us (or to Third-Party that provided by us) your PII such as your name, email address, postal address, or phone number, not all your Data.
@@ -228,8 +228,8 @@ This Section forms part of the Privacy Policy entered into by and between you an
 2) Notify you in writing or in another of (a) a Security Breach, or (b) any notification, complaint, consultation, or request is made by the Brazilian National Data Protection Authority due to the processing of Customer PII related to this Addition.
 3) In accordance with Article 18 of the LGPD, provide you assistance when necessary to respond to a complaint, consultation or request from a data subject regarding the processing of Customer PII (including, without limitation, any request for access, rectification, deletion, portability or restriction of processing of Customer PII).
 4) Not transfer Customer PII to another jurisdiction except as permitted by the Privacy Policy. Whenever transferring Customer PII to outside of Brazil, we shall offer guarantees of compliance with the principles and the rights of the data subject and the regime of data protection provided in the LGPD.
-12.3. Except for the changes made by this Section, the Privacy Policy remains unchanged and in full force and effect. If there is any conflict between the Addition and the Privacy Policy, the Addition prevails in the case of using the mobile application Grandpa: Game Horror in Brazil.
-12.4. We have ensured staff that access and process the mobile application Grandpa: Game Horror customer PII have been trained in handling that data and are bound to maintain the confidentiality and security of that data.
+12.3. Except for the changes made by this Section, the Privacy Policy remains unchanged and in full force and effect. If there is any conflict between the Addition and the Privacy Policy, the Addition prevails in the case of using the mobile application Escape from Grandfather in Brazil.
+12.4. We have ensured staff that access and process the mobile application Escape from Grandfather customer PII have been trained in handling that data and are bound to maintain the confidentiality and security of that data.
 12.5. We hold any vendors that handle PII to the same data management, security, and privacy practices and standards to which we hold ourselves.
 12.6. We are committed to carrying out data privacy impact assessments.
  

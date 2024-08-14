@@ -1,6 +1,6 @@
 Privacy Policy
  Mobile application SCP 173: Horror Game
- Last Revised: May 16, 2024
+ Last Revised: August 14, 2024
  
 Who we are / What we do
 Eduard Regovskoy is the right-holder of exclusive rights to mobile applications SCP 173: Horror Game and other all intellectual property that is hereinafter referred to as The Product.
@@ -12,7 +12,7 @@ If you are going to take registration actions, download, upload, copy, or by any
 YOU ACKNOWLEDGE THAT YOU HAVE FULLY READ, UNDERSTAND, ACCEPT AND AGREE WITH OUR PRIVACY POLICY AND OTHER LEGAL DOCUMENTS without the exceptions and qualifications, so you are responsible for their violation.
 THE CONDITIONS OF THIS PRIVACY POLICY AND OTHER LEGAL INSTRUMENTS ALLOWED IN THE TERMS AND CONDITIONS ARE SIGNIFICANT FOR YOUR EXECUTION.
 Click-wrap for agreement with this Privacy Policy and to use the Product.
-By clicking the button with the text «I Agree» or another the same in the Product - you agree to be bound by this Privacy Policy that is located at https://sites.google.com/view/foxed-studios/privacy-policy-173 and at the Product.
+By clicking the button with the text «I Agree» or another the same in the Product - you agree to be bound by this Privacy Policy that is located at https://foxedzero.github.io/privacy/173-privacy.txt and at the Product.
 Browse-wrap for agreement with this Privacy Policy and to use the Product.
 When you use the Product after downloading and installing the Product to your Device so you agree with this Privacy Policy and permit us to use your Data (non-personal identification information).
  
@@ -30,8 +30,8 @@ All the above terms can be indicated in the plural. When using the term, it is n
  
 1. Introduction
 This Privacy Policy governs all websites, apps, and other services that link to, or contain references to, this document and are published or made available by Eduard Regovskoy, its parent, subsidiaries, and affiliates. Please read this Privacy Policy carefully. It summarizes the various ways we acquire and treat your Data when you access, visit and/or use the Product. It also governs your Data that we may acquire offline. Please notice that our Privacy Policy does not cover information collected by web-sites, applications, destinations, or services linked to the Product that we do not own or control.
-You can access this Privacy Policy any time on the Product's description screen, or as otherwise indicated depending on the Product you are using, or any public website's page: https://sites.google.com/view/foxed-studios/privacy-policy-173/
-By clicking the button with the text «I Agree» or using the Product: you agree to be bound by this Privacy Policy at https://sites.google.com/view/foxed-studios/privacy-policy-173. By downloading the Product, registering for any aspect of the Product, or otherwise accessing, visiting, or using the Product, you consent to this Privacy Policy too if there is no other notification or agreement.
+You can access this Privacy Policy any time on the Product's description screen, or as otherwise indicated depending on the Product you are using, or any public website's page: https://foxedzero.github.io/privacy/173-privacy.txt
+By clicking the button with the text «I Agree» or using the Product: you agree to be bound by this Privacy Policy at https://foxedzero.github.io/privacy/173-privacy.txt. By downloading the Product, registering for any aspect of the Product, or otherwise accessing, visiting, or using the Product, you consent to this Privacy Policy too if there is no other notification or agreement.
 If you don’t agree with the terms and conditions of this Privacy Policy, you should not access, visit and/or use the Product. We advise that you print or retain a digital copy of this Privacy Policy for future reference.
 This Privacy Policy may be modified from time to time, so check back often. So that you are aware changes have been made, we will adjust the «Last Revised» date at the beginning of this document. If we make a significant change in the way we use or share your PII, we will also post on the Product a prominent notice that a change was made. Continued access to the Product by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 This Privacy Policy in the part of Personally Identifiable Information must be used only in a case, when you give to us (or to Third-Party that provided by us) your PII such as your name, email address, postal address, or phone number, not all your Data.
