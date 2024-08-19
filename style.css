@@ -1,13 +1,41 @@
 ﻿html {
-  background-image: linear-gradient(to right, #FB773C, #EB3678);
+  width: 100%;
+  background-image: linear-gradient(to right, rgb(251, 119, 60), rgb(235, 54, 120));
 }
 
+
 .center {
+  position: absolute;
+  top: -8em;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+}
 
-  width: 50em;
-
-  position:absolute;
+.buttonsWithPlace{
+  position: absolute;
   top:0;
+  right:0;
+  left:0;
+  bottom: 0;
+  margin: auto;
+}
+
+.foxedStudiosLogo{
+  position: absolute;
+  width: 50em;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  margin: auto;
+}
+
+.buttonsPlace{
+  position: absolute;
+  width: 50em;
+  top:18em;
   left:0;
   right:0;
   bottom:0;
@@ -15,30 +43,43 @@
 }
 
 .discordButton {
-  width: 20em;
-
   position:absolute;
-  top:12em;
-  left:0;
+  width: 11em;
+  right:37em;
+  bottom:0;
+  left: 0;
+  top: 18.2em;
+  margin:auto;
+}
+
+.ourGamesButton{
+  position:absolute;
+  width: 11em;
+  right:12.3em;
+  bottom:0;
+  left: 0;
+  top: 18.2em;
+  margin:auto;
+}
+
+.privacyButton{
+  position:absolute;
+  width: 11em;
   right:0;
   bottom:0;
+  left: 12.3em;
+  top: 18.2em;
   margin:auto;
 }
 
-.ourContacts{
-  width: 12em;
-
+.aboutUsButton{
   position:absolute;
-  left:1em;
-  bottom:1em;
+  width: 11em;
+  right:0;
+  bottom:0;
+  left: 37em;
+  top: 18.2em;
   margin:auto;
 }
 
-.ourGames{
-  width: 12em;
 
-  position:absolute;
-  right:1em;
-  bottom:1em;
-  margin:auto;
-}
